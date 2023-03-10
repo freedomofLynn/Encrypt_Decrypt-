@@ -1,8 +1,8 @@
-# Encrypt_Decrypt
+# Encrypt &amp; Decrypt with Lua
 
 # Penggunaan
-- instal ZeroBrane Studio/Ekstendsion VsCode untuk lua
+- instal ZeroBrane Studio/Ekstension VsCode untuk lua
 - copy file .lua
 - run code
 - finish
-Encrypt &amp; Decrypt with Lua
+
